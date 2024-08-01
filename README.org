@@ -1,0 +1,9 @@
+* scrutiny
+
+Common Lisp Unit Testing
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/jimka2001/scrutiny.git |
+| commit  | e1a3a8b                                       |
+| systems | scrutiny                                      |
+|---------+-----------------------------------------------|
